@@ -1,0 +1,6 @@
+basic.showNumber(1234)
+proportionalFont.showNumber(1234, 150)
+proportionalFont.showSpace(5, 150)
+basic.showString("hello")
+proportionalFont.showString("hello", 150)
+proportionalFont.showSpace(5, 150)
